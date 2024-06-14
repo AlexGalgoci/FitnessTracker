@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FitnessTracker</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_social_feed">Social Feed</string>
+    <string name="title_workout_log">Workout Log</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="add_post">Add Post</string>
+    <string name="add_workout">Add Workout</string>
+    <string name="hint_workout_name">Enter workout name</string>
+    <string name="hint_workout_duration">Enter workout duration</string>
+</resources>
